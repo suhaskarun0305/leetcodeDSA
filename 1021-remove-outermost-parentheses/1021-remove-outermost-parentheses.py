@@ -5,12 +5,12 @@ class Solution(object):
         :rtype: str
         """
         flag = 0
-        str1 = ""
+        ans=[]
         for i in s:
             if i == '(':
                 flag += 1
             if  flag>1:
-                  str1 += i
+                  ans.append(i)
             if i == ')':
                 flag -= 1
-        return str1
+        return ''.join(ans)
