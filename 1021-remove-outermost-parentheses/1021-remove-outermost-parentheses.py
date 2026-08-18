@@ -6,11 +6,12 @@ class Solution(object):
         """
         flag = 0
         str1 = ""
+    
         for i in s:
             if i == '(':
                 flag += 1
-            elif i == ')':
-                flag -= 1
-            if not((flag == 1 and i == '(') or (flag == 0 and i == ')')):
+            if  flag>1:
                   str1 += i
+            if i == ')':
+                flag -= 1
         return str1
