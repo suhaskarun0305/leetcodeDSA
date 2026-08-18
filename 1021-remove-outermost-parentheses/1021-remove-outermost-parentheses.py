@@ -6,7 +6,6 @@ class Solution(object):
         """
         flag = 0
         str1 = ""
-    
         for i in s:
             if i == '(':
                 flag += 1
