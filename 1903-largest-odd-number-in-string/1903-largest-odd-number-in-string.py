@@ -4,10 +4,4 @@ class Solution(object):
         :type num: str
         :rtype: str
         """
-        num = int(num)
-        while num != 0:
-            if num%2 != 0:
-                return str(num)
-            num = num//10
-        return ""
-
+        return num.rstrip("02468")
