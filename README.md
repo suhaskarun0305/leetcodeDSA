@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/1903-largest-odd-number-in-string) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
