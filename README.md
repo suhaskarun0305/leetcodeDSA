@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0242-valid-anagram) |
 ## String Matching
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
@@ -64,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
