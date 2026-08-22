@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0242-valid-anagram) |
 ## String Matching
