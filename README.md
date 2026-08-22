@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -52,5 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0242-valid-anagram) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
