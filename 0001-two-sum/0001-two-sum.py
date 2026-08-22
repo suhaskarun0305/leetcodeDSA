@@ -6,13 +6,9 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        i = 0
-        j = 1
-        while True:
-            if nums[i] + nums[j] == target:
-                return i,j
-            else:
-                j += 1
-            if j == len(nums):
-                i += 1
-                j = i+1
+        dic =  {}
+        for i in range(len(nums)):
+            n = (target - nums[i])
+            if n in dic:
+                return [dic[n],i]
+            dic[nums[i]] = i
