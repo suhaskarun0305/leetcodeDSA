@@ -12,18 +12,16 @@ class Solution(object):
         map_t_to_s = {}
 
         for i in range(len(s)):
-            a = s[i]
-            b = t[i]
             
-            if a in map_s_to_t:
-                if map_s_to_t[a] != b:
+            if s[i] in map_s_to_t:
+                if map_s_to_t[s[i]] != t[i]:
                     return False
             else:
-                map_s_to_t[a] = b
+                map_s_to_t[s[i]] = t[i]
             
-            if b in map_t_to_s:
-                if map_t_to_s[b] != a:
+            if t[i] in map_t_to_s:
+                if map_t_to_s[t[i]] != s[i]:
                     return False
             else:
-                map_t_to_s[b] = a
+                map_t_to_s[t[i]] = s[i]
         return True
