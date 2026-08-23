@@ -8,7 +8,10 @@ class Solution(object):
         cs = nums[0]
 
         for i in range(1,len(nums)):
-            cs = max(cs+nums[i],nums[i])
-            ms = max(ms,cs)
+            cs += nums[i]
+            if cs < nums[i]:
+                cs = nums[i]
+            if ms < cs:
+                ms = cs
         return ms
         
