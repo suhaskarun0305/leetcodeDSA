@@ -10,8 +10,8 @@ class Solution(object):
         for i in a:
             if i == "(":
                 count += 1
-            elif i == ")":
                 if m < count:
                     m = count
+            elif i == ")":
                 count -= 1
         return m
