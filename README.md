@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0118-pascals-triangle) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
