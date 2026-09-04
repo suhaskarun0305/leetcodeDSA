@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0229-majority-element-ii) |
+| [0704-binary-search](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
