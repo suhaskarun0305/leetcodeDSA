@@ -9,28 +9,25 @@ class Solution(object):
         elif len(s) == 1:
             return 1
         
-        max1 = 1
+        dic = {}
+
+        max1 = 0
         i = 0
-        j = 1
-        count = 1
+        j = 0
+        count = 0
 
         while j < len(s):
-            if s[j] not in s[i:j]:
-                j += 1
+            if s[j] not in dic:
+                dic[s[j]] = j
                 count += 1
-                if max1 < count:
-                    max1 = count
             else:
-                if s[j-1] != s[j]:
-                    i = j-1
-                    while s[i] != s[j]:
-                        i -= 1
-                    i += 1
-                    j += 1
-                    count = j-i
+                i = max(i, dic[s[j]] + 1)
+                count = j - i + 1
+                dic[s[j]] = j
 
-                    continue
-                count = 1
-                i = j
-                j += 1
+            if max1 < count:
+                max1 = count
+
+            j += 1
+
         return max1
