@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -131,4 +133,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/suhaskarun0305/leetcodeDSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
