@@ -10,13 +10,12 @@ class Solution(object):
         count = 0
         max1 = 0
 
-        while r < len(nums):
+        for r in range(len(nums)):
             if(nums[r]==0):
                 count+=1
             while(count>k):
                 if(nums[l]==0):
                     count-=1
                 l+=1
-            r+=1
             max1=max(max1,r-l+1)
-        return max1-1
+        return max1
