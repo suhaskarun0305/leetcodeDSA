@@ -8,7 +8,6 @@ class Solution(object):
         dic = {}
 
         r = l = 0
-        count = 0
         max1 = 0
 
         while r < len(fruits):
@@ -23,10 +22,8 @@ class Solution(object):
                 else:
                     dic[fruits[l]] -= 1
                 l += 1
-            
-            count = r - l + 1
-            
-            max1 = max(max1,count)
+
+            max1 = max(max1,r-l+1)
             r += 1
         return max1
                 
